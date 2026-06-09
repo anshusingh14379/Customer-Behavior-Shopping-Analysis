@@ -309,11 +309,6 @@ Young Adults
 
 After SQL analysis, findings were transformed into an interactive Power BI dashboard.
 
-## 📊 Project Dashboard
-
-![Customer Shopping Behavior Dashboard](![Uploading Dashboard.png…]
-)
-
 The interactive Power BI dashboard provides insights into customer demographics, purchasing patterns, subscription behavior, revenue trends, and product performance.
 
 ## Dashboard KPIs
