@@ -1,4 +1,4 @@
-<img width="1579" height="782" alt="Dashboard" src="https://github.com/user-attachments/assets/284d2bcb-13a9-4b8d-8163-b393e8a20b20" /># 🛍️ Customer Shopping Behavior Analysis
+# 🛍️ Customer Shopping Behavior Analysis
 
 ## 📖 Project Overview
 
@@ -308,6 +308,9 @@ Young Adults
 # 📈 Phase 4: Power BI Dashboard
 
 After SQL analysis, findings were transformed into an interactive Power BI dashboard.
+
+## 📊 Project Dashboard
+![Customer Shopping Behavior Dashboard]<img width="1579" height="782" alt="Dashboard" src="https://github.com/user-attachments/assets/284d2bcb-13a9-4b8d-8163-b393e8a20b20" />
 
 The interactive Power BI dashboard provides insights into customer demographics, purchasing patterns, subscription behavior, revenue trends, and product performance.
 
